@@ -85,13 +85,11 @@ main button.voltar {
   transform: rotateY(180deg);
 }
 
-.fundo{
+.fundo {
   background: url(../images/fundo-card-9.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
-
 }
-
 
 main ul li .informacoes {
   background-color: rgba(179, 177, 185, 0.7);
@@ -141,7 +139,7 @@ main ul li .descricao h3 {
 
 main ul li .descricao p {
   font-size: 14px;
-  padding:10px 12px;
+  padding: 10px 12px;
   text-align: justify;
   max-height: 115px;
   overflow-y: auto;

@@ -34,6 +34,3 @@ function voltar() {
   mostrarCartao(cartaoAtual);
 }
 }
-
-// TODO: Adicionar sistema para mudar página de pokemons
-// TODO: Adicionar sistema para pesquisa por nome
