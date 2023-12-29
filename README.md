@@ -19,7 +19,7 @@ The project is a web application that showcases interactive Pokémon cards. Upon
 
 ## How to use
 
-- Access the page link on github: [Netflix](https://rhuanlucass.github.io/pokemon-cards/)
+- Access the page link on github: [Pokémon Slider](https://rhuanlucass.github.io/pokemon-cards/)
 
 or
 
